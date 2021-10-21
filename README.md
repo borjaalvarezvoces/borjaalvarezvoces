@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @borjaalvarezvoces
-- 👀 I’m interested in learning kotlin
+- 👋 Hi, I’m @borjaalvarezvoces software engineer
+- 👀 I’m interested in learning software development
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me by email borjalsemua@gmail.com
+- 📫 How to reach me by email <a href="borjalsemua@gmail.com"/>
 
 <!---
 borjaalvarezvoces/borjaalvarezvoces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
