@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning software development
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me by email  <a href = "mailto: borjalsemua@gmail.com">borjalsemua@gmail.com</a>
+- 📫 How to reach me by email  <a href ="borjalsemua@gmail.com">borjalsemua@gmail.com</a>
 
 <!---
 borjaalvarezvoces/borjaalvarezvoces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
