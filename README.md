@@ -15,7 +15,7 @@ Kotlin | Java | AndroidSDK | Angular | HTML5 | CSS | Node.js | MongoDB | Bootstr
 
 
 ### Contact me
-By: <i><a href = "mailto: alvarezvocesborja@gmail.com">Sending Email to alvarezvocesborja@gmail.com</a></i> <br />
+By: <i><a href = "mailto: alvarezvocesborja@gmail.com">Sending Email</a></i> <br />
 Check my: <i><a href="https://www.linkedin.com/in/borja-alvarez-voces/">Linkedin</a></i> </br>
 
 <!---
