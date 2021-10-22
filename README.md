@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @borjaalvarezvoces software engineer
+- <b>Hi, I’m Borja Álvarez Voces!! 👋 </b>
+- software engineer
 - 👀 I’m interested in learning software development
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on backend projects
