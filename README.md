@@ -1,6 +1,6 @@
 ## Hi, I’m Borja Álvarez Voces!! 👋
 
-<p> Graduated as Computer engineer from the Universidad of Vigo, I´m a very outgoing and sociable person with good actitudes as teamworker. Experienced on several programming languages, I´m always looking fordward to learn something new and challenge myself in order to enchance my knowledge</p>
+<p> Graduated as Computer engineer from the Universidad of Vigo, I´m a very outgoing and sociable person with good actitudes as teamworker. Experienced on several programming languages, I´m always looking forward to learn something new and challenge myself in order to enchance my knowledge</p>
 
 ### A little more about me
 
